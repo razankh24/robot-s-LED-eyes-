@@ -1,6 +1,6 @@
 # robot-s-LED-eyes
 
-task 3: two LED eyes was connocted in parallel, for interactive purposes such as winking, plinking rapidly, etc...
+ two LED eyes was connocted in parallel, for interactive purposes such as winking, plinking rapidly, etc...
 
 
 i used two NPN transistors, two LEDs, arduino, 4 resistors.
